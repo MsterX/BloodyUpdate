@@ -1,6 +1,6 @@
 # Features
 🔒 Full account management.
-Add multiple accounts and easily switch between them.
+Add multiple accounts and easily switch between them.\n
 Microsoft (OAuth 2.0) + Mojang (Yggdrasil) authentication fully supported.
 Credentials are never stored and transmitted directly to Mojang.
 📂 Efficient asset management.
