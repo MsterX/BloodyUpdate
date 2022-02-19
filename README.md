@@ -1,30 +1,29 @@
 # Features
-🔒 Full account management.     
+🔒 Gestion complète du compte.   
 
 
-Add multiple accounts and easily switch between them.
-Microsoft (OAuth 2.0) + Mojang (Yggdrasil) authentication fully supported.
-Credentials are never stored and transmitted directly to Mojang.
+Ajoutez plusieurs comptes et passez facilement de l'un à l'autre.
+Authentification Microsoft (OAuth 2.0) + Mojang (Yggdrasil) entièrement prise en charge.
+Les informations d'identification ne sont jamais stockées et transmises directement à Mojang.
+
+📂 Gestion efficace des actifs.
+Recevez les mises à jour des clients dès que nous les publions.
+Les fichiers sont validés avant le lancement. Les fichiers corrompus ou incorrects seront retéléchargés.
 
 
-📂 Efficient asset management.
-Receive client updates as soon as we release them.
-Files are validated before launch. Corrupt or incorrect files will be redownloaded.
+☕ Validation Java automatique.
+Si vous avez installé une version incompatible de Java, nous installerons la bonne pour vous.
+Vous n'avez pas besoin d'avoir Java installé pour exécuter le lanceur.
 
 
-☕ Automatic Java validation.
-If you have an incompatible version of Java installed, we'll install the right one for you.
-You do not need to have Java installed to run the launcher.
+📰 Fil d'actualités intégré nativement au lanceur.
 
 
-📰 News feed natively built into the launcher.
-
-
-⚙️ Intuitive settings management, including a Java control panel.
-Supports all of our servers.
-Switch between server configurations with ease.
-View the player count of the selected server.
-Automatic updates. That's right, the launcher updates itself.
-View the status of Mojang's services.
-This is not an exhaustive list. Download and install the launcher to gauge all it can do!
-Affichage des mises a jour du client !
+⚙️ Gestion intuitive des paramètres, y compris un panneau de configuration Java.
+Prend en charge tous nos serveurs.
+Basculez facilement entre les configurations de serveur.
+Afficher le nombre de joueurs du serveur sélectionné.
+Mises à jour automatiques. C'est vrai, le lanceur se met à jour.
+Voir l'état des services de Mojang.
+Ce n'est pas une liste exhaustive. Téléchargez et installez le lanceur pour évaluer tout ce qu'il peut faire !
+Affichage des mises à jour du client !
